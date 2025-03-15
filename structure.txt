@@ -1,0 +1,31 @@
+Trackify/
+│── .vscode/                          # VS Code settings
+│── src/
+│   ├── main/java/com/nerfex/
+│   │   ├── database/                 # Database-related classes
+│   │   │   ├── DatabaseConnector.java
+│   │   │   ├── DatabaseInitializer.java
+│   │   ├── dao/                      # Data Access Objects (DAO)
+│   │   │   ├── ExpenseDAO.java
+│   │   │   ├── UserDAO.java
+│   │   │   ├── WalletDAO.java
+│   │   ├── models/                   # Model classes (POJOs)
+│   │   │   ├── Expense.java
+│   │   │   ├── User.java
+│   │   │   ├── Wallet.java
+│   │   ├── services/                 # Business logic
+│   │   │   ├── ExpenseService.java
+│   │   │   ├── UserService.java
+│   │   │   ├── WalletService.java
+│   │   ├── utils/                    # Utility classes (helpers)
+│   │   │   ├── DateUtils.java
+│   │   │   ├── ConfigReader.java
+│   │   ├── ui/                        # JavaFX (to be added)
+│   │   │   ├── MainUI.java
+│   │   │   ├── ExpenseUI.java
+│   │   │   ├── WalletUI.java
+│   │   ├── Main.java                  # Entry point
+│── target/                            # Compiled output
+│── pom.xml                            # Maven configuration
+│── README.md                          # Project documentation
+│── trackify.sql                       # SQL script (schema + dummy data)

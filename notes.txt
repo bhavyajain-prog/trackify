@@ -1,0 +1,2 @@
+Empty result set handling
+For non-existing id's it works somehow!!!
