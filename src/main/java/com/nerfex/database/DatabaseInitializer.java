@@ -19,7 +19,7 @@ public class DatabaseInitializer {
                 System.out.println("Database setup complete.");
             }
         } catch (SQLException e) {
-            System.err.println("Database Initialization Error: " + e.getMessage());
+            System.err.println("Database Initialization Error:" + e.getMessage());
         }
     }
 
