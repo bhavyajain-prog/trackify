@@ -1,1 +1,9 @@
-com/nerfex/App.class
+com/nerfex/dao/impl/TransactionDAOImpl.class
+com/nerfex/dao/WalletDAO.class
+com/nerfex/dao/TransactionDAO.class
+com/nerfex/database/DatabaseInitializer.class
+com/nerfex/model/Transaction.class
+com/nerfex/model/Wallet.class
+com/nerfex/dao/impl/WalletDAOImpl.class
+com/nerfex/TrackifyCLI.class
+com/nerfex/database/DatabaseConnector.class

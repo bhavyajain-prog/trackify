@@ -1,1 +1,9 @@
-/home/nerfex/Projects/Trackify/trackify/src/main/java/com/nerfex/App.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/model/Transaction.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/dao/impl/TransactionDAOImpl.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/TrackifyCLI.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/dao/WalletDAO.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/database/DatabaseConnector.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/database/DatabaseInitializer.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/dao/impl/WalletDAOImpl.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/model/Wallet.java
+/home/nerfex/Projects/trackify/src/main/java/com/nerfex/dao/TransactionDAO.java
